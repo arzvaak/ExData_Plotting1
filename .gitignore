@@ -4,5 +4,5 @@
 .Ruserdata
 data/
 *.zip
-figures/*.png
+figure/*.png
 ExData_Plotting1.Rproj
